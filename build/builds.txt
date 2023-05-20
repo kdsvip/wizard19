@@ -1,7 +1,7 @@
 name="eminence kodi 20"
 version="1.0"
 url=""
-minor="http://"
+minor="https://www.dropbox.com/s/opipxedym6xpn7r/enimcevip20052023.zip?dl=1"
 gui="http://"
 kodi="20"
 theme="http://"
