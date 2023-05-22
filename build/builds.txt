@@ -18,7 +18,7 @@ description="תודה לתומכים היקרים עדכון בילד 20.05.2023
 
 name="eminence kodi v19"
 version="1.0"
-url="https://www.dropbox.com/s/sv1ue3z58jdnat3/enimcenewvip.zip?dl=1"
+url="https://www.dropbox.com/s/qunwwljnf20zcy0/enimcenewvipv1922052023.zip?dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="19"
