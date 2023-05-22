@@ -16,10 +16,6 @@ adult="yes"
 info="url.to.info"
 description="תודה לתומכים היקרים עדכון בילד 20.05.2023"
 
-id="plugin.program.aftermath"
-version="0.4.5"
-zip="url.to.wizard"
-
 name="eminence kodi v219
 version="0.4.5"
 url="https://www.dropbox.com/s/w05y5mbis0qt17e/enimcenewvip22052023v19.zip?dl=1"
