@@ -15,7 +15,6 @@ preview=""
 adult="no"
 info="url.to.info"
 description="תודה לתומכים היקרים עדכון בילד 20.05.2023"
-
 name="eminence kodi v19"
 version="1.0"
 url="https://www.dropbox.com/s/lmxb6txexnvue51/enimcevip22052023v20.zip?dl=1"
