@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="eminence kodi v20"
 version="1.0"
-url="f9a6c3b2f7543741b2757d4a4db5b274"
+url="https://www.dropbox.com/scl/fi/dgl1i9p739w1plse9r295/kdsvipenimce10112023.zip?rlkey=97tt2gb4p15peemvfi88pxl1p&dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="20"
